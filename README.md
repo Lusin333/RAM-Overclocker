@@ -2,6 +2,7 @@
 
 ## Synopsis
 Lusin's Random-Access-Humor resulted in the creation of the RAM Overclocker!
+
 Overclocking your RAM is now a simple process with the RAM Overclocker! Increase your RAM speed today!
 
 ## Download
