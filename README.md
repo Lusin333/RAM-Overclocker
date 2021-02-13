@@ -9,6 +9,7 @@ Overclocking your RAM is now a simple process with the RAM Overclocker! Increase
 
 ## History
 Lusin hates slow computers so much!!  However, Lusin is a skilled computer programmer, so Lusin created a program called the RAM Overclocker to speed up slow RAM.
+
 Lusin has autism.  Autism leads to Random-access-humor.  Random-access-humor leads to awesome computer software.
 
 ## RAM Overclocker Tutorial
